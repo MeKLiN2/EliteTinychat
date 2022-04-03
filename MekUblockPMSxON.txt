@@ -1,0 +1,377 @@
+! 6/22/2019 https://tinychat.com BY MEKLIN
+!2-24-2022 by meklin tinychat.com/irony
+!BlockFagGayDaddyIssueModeratorsInBigCamQueerBabyAttentionMode
+!thismayberandomlyblocking1personscam
+!youwilleventuallyfindoutifitis
+!blockmainchatIfYouReadWithABot
+!blockmainchatunreadhiddenspam
+!tinychat.com###chat-content-new
+!tinychat.com###chat-content
+!endblockmainforbot
+!pm JS
+!tinychat.com##tinychat-webrtc-app.html-69.js
+!https://tinychat.com/webrtc/2.0.0-13/src/tinychat-webrtc-app/tinychat-webrtc-app.html-69.js
+!PM JS
+!BLOCKALLCHATBOXFORBIGCAMANDUSINGBOTTOCHAT
+!tinychat.com###tc-chatlog
+!tinychat.com###chat-content
+!tinychat.com###chat-wrapper
+!tinychat.com###chat-wider
+!endBIGBLOCKER
+tinychat.com###videos-items:nth-child(1)
+tinychat.com###videos-items:nth-child(1) > div:nth-child(1)
+tinychat.com###videolist div#videos-content div#videos.row div.videos-items div.js-video
+tinychat.com###videolist div#videos-content div#videos.row div.videos-items
+tinychat.com###videos-content > div#videos.row div.videos-items > div.js-video
+tinychat.com###videos-content > div#videos.row div.videos-items
+tinychat.com###videolist > #videos-content > #videos.row > #videos-items > #js-video
+!blockmsgsAndUseBotToReadChat
+~tinychat.com##chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common
+!blockallchatmsgs
+!blockUglyChildlessFaggotModsBigcam
+~tinychat.com###video.not-visible
+!fagblockerEnd
+tinychat.com###label-user
+tinychat.com###waiting
+!PMONOFF
+!tinychat.com###chatlist div.list-item span
+!PMONOFF
+!gaygiftbutton
+tinychat.com###chatlist div.list-item span span span.send-gift
+tinychat.com###chatlist div.list-item span span
+!gaygiftbuttonend
+!shitbuttonminimizeuserlist
+tinychat.com###sidemenu div#sidemenu-wider
+!shitbuttonend
+!NoCammingDownBro
+tinychat.com###videolist div.active.show-ptt.active-ptt
+!endCamdown
+!annoying shits colors even with avatar strip in chatbox gg
+tinychat.com###sub-extreme
+tinychat.com###sub-gold
+tinychat.com###sub-pro
+tinychat.com###chat-content > .message.sub-pro, #chat-content > .message.sub-extreme, #chat-content > .message.sub-gold 
+tinychat.com###chat-content > .message.sub-pro, #chat-content > .message.sub-extreme, #chat-content > .message.sub-gold 
+tinychat.com###chat-content > .message.sub-pro, #chat-content > .message.sub-extreme, #chat-content > .message.sub-gold
+tinychat.com###chat-content > .message.sub-pro
+tinychat.com###chat-content > .message.sub-gold
+tinychat.com###chat-content > .message.sub-extreme
+!shits
+tinychat.com###room-header
+tinychat.com###nav-static
+tinychat.com###nav-static-wrapper
+tinychat.com###nav-fixed-wrapper
+tinychat.com###input-menu
+tinychat.com###input-users
+tinychat.com###input-menus
+tinychat.com###youtube
+tinychat.com###input-user
+tinychat.com###modal-content-fatalerror
+tinychat.com###sidemenu-wider
+tinychat.com###user-info
+tinychat.com###users-icon
+tinychat.com###close-users
+tinychat.com###top-buttons-wrapper
+tinychat.com###menu-icon
+tinychat.com###modal-window
+d(1)
+tinychat.com###chat-wider
+tinychat.com###notify-bar
+tinychat.com###nav-menu
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common.highlight div.content cts-message-html div.stackmessage
+tinychat.com###a.avatar
+tinychat.com###avatar
+tinychat.com##div#chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common a.avatar
+/html/body/tinychat-webrtc-app//div[1]/div/tc-chatlog//div[2]/div/div[4]/div/div[81]
+document.querySelector("#content").shadowRoot.querySelector("#room-content > tc-chatlog").shadowRoot.querySelector("#cts-chat-content > div:nth-child(81)")
+//*[@id="cts-chat-content"]/div[81]
+
+tinychat.com###message highlight
+tinychat.com###cts-chat-content > #div.nickname
+tinychat.com###cts-chat-content > div.nickname
+tinychat.com###cts-chat-content > a.avatar
+tinychat.com###cts-chat-content > #a.avatar
+tinychat.com###cts-chat-content > #avatar
+tinychat.com###cts-chat-content > avatar
+tinychat.com##div.message > cts-message-html:nth-child(1) > span:nth-child(1)
+tinychat.com###popup
+
+tinychat###div.video.not-visible div.ratio-4-3.extreme svg
+tinychat###div.video.not-visible div.ratio-4-3.pro svg
+tinychat.com###div.video div.ratio-4-3.pro svg
+
+
+!!CTS STUFF
+tinychat.com###music-radio
+tinychat.com###videos-footer-youtube
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common div.content cts-message-html span#html.message.common center img
+!ctsbotchatlogspamshit
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common.highlight
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common.highlight div.content cts-message-html span#html.message.common
+!shitspammerend
+
+!!CTS STUFF END
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common div.content cts-message-html span#html.message.common center video
+tinychat.com###div.video div.ratio-4-3.extreme svg
+tinychat.com###stackmessage
+tinychat.com###div.nickname
+tinychat.com###no-support
+tinychat.com###body > iframe:nth-child(21)
+tinychat.com###body > script:nth-child(20)
+tinychat.com###body > script:nth-child(19)
+tinychat.com###body > script:nth-child(15)
+tinychat.com###mobile-app
+tinychat.com###Intercom
+tinychat.com###body > style
+tinychat.com###body > script:nth-child(13)
+tinychat.com###body > script:nth-child(14)
+tinychat.com###input-sandwich
+tinychat.com###js-user-list-item
+tinychat.com###menu-icon-general
+tinychat.com##div #videos-content:style(background-color: black !important;)
+tinychat.com##div #chat-content:style(background-color: black !important;)
+tinychat.com##div #videos-footer:style(background-color: black !important;)
+tinychat.com##div #chat-wrapper:style(background-color: black !important;)
+tinychat.com##div #chat-content > div:nth-child(175) > a.nickname
+tinychat.com###chat-content > div > a:nth-child(1) > div
+tinychat.com###chat-content > div:nth-child(3) > a:nth-child(1) > div
+!good
+tinychat.com###input-unread
+!good CHAT TEXT BG
+tinychat.com##div #chat-content > div:style(background-color: black !important;)
+tinychat.com##div #chat-content > div > div > tc-message-html:style(font-color: black !important;)
+tinychat.com##div #chat-content > div > div > tc-message-html > #html:style(font-color: black !important;)
+!here---v new
+tinychat.com##div #chat-content > div:nth-child(n) > a.nickname:style(font-color: white !important;)
+!good----V idk
+tnychat.com##div #chat-content > div:nth-child() > div > tc-message-html(background-color: green !important;)
+tinychat.com##div .message {
+  font-size:14px;color:#2e373a;white-space:pre-line;word-wrap:break-word;
+}
+ 
+.message.system {
+  font-size:12px;font-weight:600;color:#8f999c;
+}
+ 
+.message.gift {
+  padding-bottom:12px;font-size:12px;font-weight:600;color:#8f999c;cursor:default;
+}
+ 
+.full-screen.message {
+  color:#fff;
+}
+ 
+a {
+  color:#4682b4;
+}
+ 
+@media screen and (max-width: 600px) {
+.message {
+  font-size:12px;
+}
+ 
+}
+ 
+ 
+tinychat.com#pro-2,
+tinychat.com#pro-3,
+tinychat.com#pro-4,
+tinychat.com#extreme-1,
+tinychat.com#extreme-2,
+tinychat.com#extreme-3,
+tinychat.com#gold-1,
+tinychat.com#gold-2,
+tinychat.com#gold-3,
+tinychat.com#button-pro-1,
+tinychat.com#button-pro-2,
+tinychat.com#button-extreme-1,
+tinychat.com#button-gold-1{position:absolute;display:block;border-radius:100%;}#pro-1,
+tinychat.com#pro-2,
+tinychat.com#pro-3,
+tinychat.com#pro-4,
+tinychat.com#button-pro-1,
+tinychat.combutton-pro-2{background-color:#2ecb4e;}#extreme-1,
+tinychat.com#extreme-2,
+tinychat.com#extreme-3,
+tinychat.com#button-extreme-1{background-color:#ad6bce;}#gold-1,
+tinychat.com#gold-2,
+tinychat.com#gold-3,
+
+! 2021-04-23 https://tinychat.com
+||i.imgur.com/aS5RCaX.jpg$image
+||i.imgur.com/aS5RCaX.jpg$image
+
+! 2021-06-15 https://ogs.google.com
+||www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.Y7LEhkj7g0U.es5.O/ck=boq-one-google.OneGoogleWidgetUi.rIsH2Ox4DBU.L.B1.O/am=WACA/d=1/exm=_b,_tp/excm=_b,_tp,appwidgetauthview/ed=1/wt=2/rs=AM-SdHu_dwSt0Wu5unYfICICOmg7p1auFw/m=byfTOb,lsjVmc,LEikZe$script,domain=ogs.google.com
+||www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.Y7LEhkj7g0U.es5.O/ck=boq-one-google.OneGoogleWidgetUi.rIsH2Ox4DBU.L.B1.O/am=WACA/d=1/exm=A7fCU,BVgquf,CBlRxf,COQbmf,EFQ78c,GkRiKb,HDvRde,HLo3Ef,IZT63,JNoxi,KG2eXe,KUM7Z,L1AAkb,LEikZe,MI6k7c,MdUzUe,MpJwZc,NpD4ec,NwH0H,O1Gjze,O6y8ed,O8k1Cd,OmgaI,PQaYAf,PrPYRd,QIhFr,RMhBfe,SF3gsd,SdcwHb,SpsfSb,U0aPgd,UUJqVe,Uas9Hd,UgAtXe,Ulmmrd,V3dDOb,VwDzFe,XVMNvd,YLQSd,ZfAoz,ZwDk9d,_b,_tp,aDfbSd,aW3pY,aurFic,blwjVc,byfTOb,e5qFLc,fKUV3e,gychg,hKSk3e,hc6Ubd,iTsyac,iWP1Yb,kjKdXe,lKZxSd,lPKSwe,lazG7b,lfpdyf,lsPsHb,lsjVmc,lwddkf,mI3LFb,mdR7q,n73qwf,o02Jie,pB6Zqd,pjICDe,pw70Gc,qCSYWe,rHjpXd,s39S4,tfTN8c,w9hDv,ws9Tlc,x60fie,xQtZb,xUdipf,xiqEse,yDVVkb,zbML3c/excm=_b,_tp,appwidgetauthview/ed=1/wt=2/rs=AM-SdHu_dwSt0Wu5unYfICICOmg7p1auFw/m=Wt6vjf,_latency,FCpbqb,WhJNk$script,domain=ogs.google.com
+||www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.Y7LEhkj7g0U.es5.O/am=WACA/d=1/excm=_b,_tp,appwidgetauthview/ed=1/dg=0/wt=2/rs=AM-SdHu4JPE_Uay-OVWCbrXtnSKwUHRUnQ/m=_b,_tp$script,domain=ogs.google.com
+||apis.google.com/js/api.js$other,domain=ogs.google.com
+||lh3.googleusercontent.com/ogw/ADea4I4iBXiXlIs8QKPI7ur5YrkbH361VC09OKWsE-F4=s128-b16-cc-rp-mo$image,domain=ogs.google.com
+||ssl.gstatic.com/gb/images/p1_c9bc74a1.png$image,domain=ogs.google.com
+
+! 2021-06-15 https://ssl.gstatic.com
+||ssl.gstatic.com/gb/images/p1_c9bc74a1.png$document,domain=ssl.gstatic.com
+||ssl.gstatic.com/gb/images/p1_c9bc74a1.png$inline-font,domain=ssl.gstatic.com
+
+! 2021-06-15 https://ogs.google.com
+||www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.Y7LEhkj7g0U.es5.O/ck=boq-one-google.OneGoogleWidgetUi.rIsH2Ox4DBU.L.B1.O/am=WACA/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,appwidgetauthview/ed=1/wt=2/rs=AM-SdHu_dwSt0Wu5unYfICICOmg7p1auFw/m=n73qwf,ws9Tlc,IZT63,e5qFLc,GkRiKb,UUJqVe,O1Gjze,xUdipf,blwjVc,fKUV3e,aurFic,COQbmf,U0aPgd,ZwDk9d,V3dDOb,mI3LFb,O6y8ed,NpD4ec,PrPYRd,iWP1Yb,MpJwZc,O8k1Cd,NwH0H,OmgaI,HLo3Ef,x60fie,xiqEse,lazG7b,XVMNvd,L1AAkb,KUM7Z,lfpdyf,lKZxSd,s39S4,lwddkf,gychg,w9hDv,RMhBfe,qCSYWe,SdcwHb,aW3pY,YLQSd,PQaYAf,pw70Gc,EFQ78c,Ulmmrd,ZfAoz,mdR7q,CBlRxf,MdUzUe,xQtZb,lPKSwe,QIhFr,JNoxi,MI6k7c,kjKdXe,pB6Zqd,rHjpXd,yDVVkb,SF3gsd,hKSk3e,iTsyac,hc6Ubd,KG2eXe,SpsfSb,tfTN8c,o02Jie,VwDzFe,zbML3c,HDvRde,Uas9Hd,BVgquf,A7fCU,lsPsHb,UgAtXe,aDfbSd,pjICDe$script,domain=ogs.google.com
+
+! 2021-06-15 https://tinychat.com
+||ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js$script,domain=tinychat.com
+||optanon.blob.core.windows.net/skins/default_flat_bottom_two_button_black/v2/css/optanon.css$stylesheet,domain=tinychat.com
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script,domain=tinychat.com
+||secure.adnxs.com/seg?add=3083006&t=1$script,domain=tinychat.com
+||tinychat.com/webrtc/2.0.0-128/images/favicon.png$image,1p
+||pixel.quantserve.com/pixel/p-91mBChr87YHGg.gif$image,domain=tinychat.com
+||cdn.cookielaw.org/consent/044ebf65-2f51-464f-a89e-e8745b296670.js$script,domain=tinychat.com
+
+! 2021-06-16 https://tinychat.com
+@@||www.gstatic.com/recaptcha/releases/6OAif-f8nYV0qSFmq-D6Qssr/recaptcha__en.js$script,domain=tinychat.com
+@@||apis.google.com/js/platform.js$script,domain=tinychat.com
+@@||tinychat.com/css/login.css?v=1478846750$stylesheet,1p
+||tinychat.com/js/template.js?v=1603357931$script,1p
+@@||tinychat.com/js/template.js?v=1603357931$script,1p
+@@||tinychat.com/js/jquery-1.12.0.min.js$script,1p
+||tinychat.com/css/template_styles.css?v=1618303082$stylesheet,1p
+||tinychat.com/css/template_styles_ie.css?v=1476434964$stylesheet,1p
+||tinychat.com/css/login.css?v=1478846750$stylesheet,1p
+||tinychat.com/css/birthday.css?v=1580889126$stylesheet,1p
+||tinychat.com/start?$inline-script,1p
+||tinychat.com/images/favicon.png$image,1p
+@@||tinychat.com/css/template_styles_ie.css?v=1476434964$stylesheet,1p
+@@||tinychat.com/css/birthday.css?v=1580889126$stylesheet,1p
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script,domain=tinychat.com
+||www.google.com/recaptcha/api.js$script,domain=tinychat.com
+@@||tinychat.com/start?$inline-script,1p
+
+! 2021-06-17 https://tinychat.com
+@@||www.google.com/recaptcha/api.js$script,domain=tinychat.com
+@@||tinychat.com/api/v1.0/room/token/hell?$xhr,1p
+
+!cts dice roll
+tinychat.com###chat-wrapper div#chat-position div#chat.on-white-scroll div#cts-chat-content div.message.common div.content cts-message-html span#html.message.common span
+!slashdice
+
+! 2021-06-17 https://www.google.com
+@@||www.gstatic.com/recaptcha/releases/6OAif-f8nYV0qSFmq-D6Qssr/recaptcha__en.js$script,domain=www.google.com
+
+! 2021-06-17 https://tinychat.com
+@@||wss1503.tinychat.com:6420^$websocket,1p
+@@||tinychat.com/webrtc/2.0.0-128/src/tinychat-webrtc-app/tinychat-webrtc-app.html$xhr,1p
+@@||tinychat.com/webrtc/2.0.0-128/manifest.json$other,1p
+@@||tinychat.com/api/*$xhr,1p
+@@||wss1507.tinychat.com:17263^$websocket,1p
+@@||wss1508.tinychat.com:9509^$websocket,1p
+@@||wss1504.tinychat.com:21162^$websocket,1p
+||ssl.google-analytics.com/ga.js$script,domain=tinychat.com
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script,domain=tinychat.com
+||www.googletagmanager.com/gtm.js?id=GTM-M4KJBWD$script,domain=tinychat.com
+
+! 2021-09-24 https://tinychat.com
+||tinychat.com/gifts/images/achievement/new/star_y_32.png$image,1p
+||tinychat.com/gifts/images/achievement/new/star_b_32.png$image,1p
+
+!blockPMTinychatByMeklin
+||https://tinychat.com/webrtc/2.0.0-13/src/tinychat-webrtc-app/tinychat-webrtc-app.html-69.js$script,domain=tinychat.com
+
+!https://tinychat.com/webrtc/2.0.0-13/src/tinychat-webrtc-app/tinychat-webrtc-app.html-69.js
+
+! 2022-03-13 https://www.reddit.com
+||www.redditstatic.com/desktop2x/Reddit~reddit-components-ClassicPost~reddit-components-CompactPost~reddit-components-LargePost~reddi~90fdacc3.53810ed115b34e74cf8f.js$script,domain=www.reddit.com
+||www.redditstatic.com/desktop2x/CollectionCommentsPage~CommentsPage~GovernanceReleaseNotesModal~ModerationPages~PostCreation~Profile~9a5d9fab.cb154e70a0b32e836935.js$script,domain=www.reddit.com
+||www.redditstatic.com/desktop2x/reddit-components-MediumPost.0cc588f7294794c645aa.js$script,domain=www.reddit.com
+||preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=32&height=32&crop=smart&auto=webp&s=9daced81bcda555dbd88dfe1134aa4c2af7990e1$image,domain=www.reddit.com
+||external-preview.redd.it/7aEpVdwlw0wxAj2qAHWIf1jm-Bi_kuxIZccojkn5qG8.jpg?width=640&crop=smart&auto=webp&s=1d09d6dcd6f979009d28bbd2fe2be4b15c67a9bb$image,domain=www.reddit.com
+||preview.redd.it/$image,domain=www.reddit.com
+||www.redditstatic.com/$image,domain=www.reddit.com
+||www.redditstatic.com$other,domain=www.reddit.com
+
+! 2022-03-13 https://tinychat.com
+||avatars.tinychat.com$image,1p
+||geolocation.onetrust.com$script,domain=tinychat.com
+||ssl.google-analytics.com$script,domain=tinychat.com
+||script.crazyegg.com$script,domain=tinychat.com
+||ajax.googleapis.com$script,domain=tinychat.com
+||cdn.cookielaw.org/consent$script,domain=tinychat.com
+||ssl.google-analytics.com$image,domain=tinychat.com
+||ssl.google-analytics.com/$image,domain=tinychat.com
+||ajax.googleapis.com/$script,domain=tinychat.com
+||geolocation.onetrust.com/$script,domain=tinychat.com
+||script.crazyegg.com/$script,domain=tinychat.com
+||optanon.blob.core.windows.net/$stylesheet,domain=tinychat.com
+||ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=6&utmn=1807195892&utmhn=tinychat.com&utme=8(Language*Page*Interface*Member%20Type)9(en*home*Web*Registered)11(2*4!1)&utmcs=UTF-8&utmsr=1920x1080&utmvp=1048x1050&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Live%20video%20chat%20rooms%2C%20simple%20and%20easy.%20-%20Tinychat&utmhid=594964916&utmr=-&utmp=%2Firony&utmht=1647186783293&utmac=UA-9094897-1&utmcc=__utma%3D46650146.1626564208.1646957367.1647150678.1647186161.10%3B%2B__utmz%3D46650146.1646957367.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=848459013&utmredir=1&utmu=rQAAAAAAAAAAAAAAAAAAAAAE~$image,domain=tinychat.com
+||ssl.google-analytics.com/ga.js$script,domain=tinychat.com
+||geolocation.onetrust.com/cookieconsentpub/v1/geo/countries/EU?callback=jQuery1112061381320151356_1647186783326&_=1647186783327$script,domain=tinychat.com
+||geolocation.onetrust.com^$script,domain=tinychat.com
+||script.crazyegg.com^$script,domain=tinychat.com
+||ssl.google-analytics.com^$image,domain=tinychat.com
+||ajax.googleapis.com^$script,domain=tinychat.com
+||optanon.blob.core.windows.net^$stylesheet,domain=tinychat.com
+||ajax.googleapis.com^$domain=tinychat.com
+
+! 2022-03-14 https://www.facebook.com
+||static.xx.fbcdn.net^$xhr,domain=www.facebook.com
+
+! 2022-03-14 https://platform.twitter.com
+||cdn.syndication.twimg.com^$script,domain=platform.twitter.com
+
+! 2022-03-14 https://tinychat.com
+||platform.twitter.com^$subdocument,domain=tinychat.com
+
+! 2022-03-14 https://platform.twitter.com
+||syndication.twitter.com^$xhr,domain=platform.twitter.com
+
+! 2022-03-14 https://tinychat.com
+||connect.facebook.net^$script,domain=tinychat.com
+||ssl.google-analytics.com^$script,domain=tinychat.com
+||apis.google.com^$script,domain=tinychat.com
+
+! 2022-03-26 https://tinychat.com
+||tinychat.com/webrtc/2.0.20-420/sound/*$media,1p
+
+! 2022-04-01 https://tinychat.com
+||gifts.tinychat.com^$image,1p
+||gifts.tinychat.com/17/*$image,1p
+||gifts.tinychat.com/9/*$image,1p
+||gifts.tinychat.com^$image
+||tinychat.com/css/fonts/OpenSans-Extrabold.woff$font,1p
+||tinychat.com/webrtc/2.0.0-13/sound/pop.mp3$media,1p
+||tinychat.com/css/fonts/*$font,1p
+||tinychat.com/css/fonts/*$font
+||tinychat.com/css/fonts/OpenSans-Extrabold.woff$font
+||tinychat.com/css/fonts/OpenSans-Light.woff$font,1p
+||tinychat.com/css/fonts/OpenSans-Light.woff$font
+||tinychat.com/css/fonts/OpenSans-Bold.woff$font,1p
+||tinychat.com/css/fonts/OpenSans-Bold.woff$font
+||tinychat.com/css/fonts/OpenSans.woff$font,1p
+||tinychat.com/css/fonts/OpenSans.woff$font
+||tinychat.com/css/fonts/OpenSans-Semibold.woff$font,1p
+||tinychat.com/css/fonts/OpenSans-Semibold.woff$font
+||ssl.google-analytics.com/ga.js$script,domain=tinychat.com
+||ssl.google-analytics.com^$script,domain=tinychat.com
+||ssl.google-analytics.com^$script
+||ssl.google-analytics.com/ga.js$script
+||www.googletagmanager.com/gtm.js?id=GTM-M4KJBWD$script,domain=tinychat.com
+||www.googletagmanager.com/gtm.js$script,domain=tinychat.com
+||www.googletagmanager.com^$script,domain=tinychat.com
+||www.googletagmanager.com^$script
+||www.googletagmanager.com/gtm.js$script
+||www.googletagmanager.com/gtm.js?id=GTM-M4KJBWD$script
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script,domain=tinychat.com
+||www.googletagmanager.com/gtag/js$script,domain=tinychat.com
+||www.googletagmanager.com/gtag/*$script,domain=tinychat.com
+||www.googletagmanager.com/gtag/*$script
+||www.googletagmanager.com/gtag/js$script
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script
+||www.gstatic.com/firebasejs/4.6.2/firebase-messaging.js$script,domain=tinychat.com
+||www.gstatic.com/firebasejs/4.6.2/*$script,domain=tinychat.com
+||www.gstatic.com/firebasejs/*$script,domain=tinychat.com
+||www.gstatic.com^$script,domain=tinychat.com
+||www.gstatic.com^$script
+||www.gstatic.com/firebasejs/*$script
+||www.gstatic.com/firebasejs/4.6.2/*$script
+||www.gstatic.com/firebasejs/4.6.2/firebase-messaging.js$script
+||www.gstatic.com/firebasejs/4.6.2/firebase.js$script,domain=tinychat.com
+||www.gstatic.com/firebasejs/4.6.2/firebase.js$script
+||gifts.tinychat.com/9/3509.jpg$image,1p
+
